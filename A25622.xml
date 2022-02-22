@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to the second letter from Legorn being an account of some further discovery of a continued plot aboard the ship Vanherring.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25622</idno>
+            <idno type="STC">Wing A3444</idno>
+            <idno type="STC">ESTC R23059</idno>
+            <idno type="EEBO-CITATION">12062517</idno>
+            <idno type="OCLC">ocm 12062517</idno>
+            <idno type="VID">53301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25622)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53301)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 49:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to the second letter from Legorn being an account of some further discovery of a continued plot aboard the ship Vanherring.</title>
+                  <author>Orme, Thomas, d. 1716.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Deals allegorically with the Popish plot.</note>
+                  <note>Caption title.</note>
+                  <note>Signed: Philopatriae.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Van Herring (Ship)</term>
+               <term>Popish Plot, 1678 --  Anecdotes.</term>
+               <term>Political satire, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:53301:1" rendition="simple:additions"/>
+            <head>AN ANSWER TO THE SECOND LETTER<g ref="char:punc">▪</g> FROM LEGORN: BEING AN ACCOUNT Of ſome further Diſcovery of a <hi>Continued Plot</hi> ABOARD THE <hi>Ship</hi> VANHERRING.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs, Dated <hi>Decemb.</hi> 10. 1679. came ſafe to my Hands; I have ſeriouſly con<g ref="char:EOLhyphen"/>ſidered the Account you gave of the Captain and the whole Ships Company, and do believe it a True and Ingenuous Account of Matters relating to all Parties concerned: I have diſcourſed with many about the Re<g ref="char:EOLhyphen"/>lation, and find them exceedingly pleas'd that there is ſuch a Diſcovery; but are likewiſe greatly grieved and perplexed to underſtand the Danger that the Chriſtian Captain and his Ships Company are in, by reaſon of the <hi>Mahometan</hi> Lieutenant, and his Deviliſh Crew, in Confederacy with the wicked <hi>Algerines.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:53301:2"/>
+               <hi>Sir,</hi> The more your Letter is read, the better it is underſtood; ſo that now the Ge<g ref="char:EOLhyphen"/>nerality of People can read it roundly, quite through without, ſtumbling at a word in it. I do aſſure you, it hath filled the City with general Fears and Conſternation of mind to admiration, and that which hath greatly furthered the knowledge of this Matter, is, that ſomebody hath gotten a Copy of your Letter, and Printed it; but I believe this will not iſſue in your Captains nor your Diſadvantage. I fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d no other uſe made of it by the Generality of Chriſtians, but to be concerned about the Welfare of your Captain, Ship, Goods, and all the Chriſtian Sailors on Board.</p>
+            <p>And now, Sir, I will give you a particular anwer to your Letter.</p>
+            <p n="1">I. as to the Captain, here are Multitudes of good Chriſtians in theſe parts, are perſwaded they know him well, and ſpeak well of him; as a Gentlemam Nobly De<g ref="char:EOLhyphen"/>ſcended from a Father of great Renown; greatly beloved in his own and other Na<g ref="char:EOLhyphen"/>tions; and that the Captain (as to his nature) is of a ſweet Temper and Diſpoſi<g ref="char:EOLhyphen"/>tions; But that he is apt to be miſlead by ſome of thoſe that he hath advanced; who ſeek more their own private advantage, than his publick welfare, which ſome concluded was the great failure of his Noble Father; and therefore 'tis heartily deſired, that the Captain would be pleaſed timely to conſider it for his own preſent and future good. Sir, I do aſſure you, that your Captain is greatly beloved, and Highly Honoured in our Country; becauſe he always profeſſed himſelf a Chriſtian, and it is generally hoped he will continue ſo to the end.</p>
+            <p n="2">II. As to the Conſpiracy of the <hi>Mahometans</hi> to take away the Captains Life, and enſlave all the Chriſtians-Sailors, and make prize of the Ship and Goods<g ref="char:punc">▪</g>
+            </p>
+            <p>Sir, This is heavy and Heart-breaking Tidings to all thoſe that love the Captain and the Sailors; But there is a great deal of Joy and Satiſfaction in the timely Diſcove<g ref="char:EOLhyphen"/>ry of this Helliſh Deſign (by thoſe that were privy to it<hi>:</hi> as for the Lieutenant whom you ſay is a <hi>Mahometan,</hi> he is well known in our Countrey; and many do ſay that he is nearly related to the Captain, which is the cauſe things go on no better; Nevertheleſs he is far ſhort of being beloved and honoured as the Captain is, becauſe he is a <hi>Mahometan</hi> and liveth in hopes of being Captain hereafter, which is not at all pleaſing to the Chriſtians here; becauſe then in all probability the Ship and goods will be made a Prize, and the chriſtian-Sailors made Slaves, or ſlain (if they change not their Relgion) which God prevent.</p>
+            <p n="3">III. As to your Honeſt Boatſwain, that was murthered for taking the Conſeſſion and Diſcovery of the Conſpiracy. The firſt Tidings of it amazed all true Chriſtians; becauſe he was a good Chriſtian himſelf and a great Lover of his Captain; he was well known in this City to be a Gentleman of faithfulneſs, courage, and of a ſweet Di<g ref="char:EOLhyphen"/>ſpoſition; I do aſſure you here hath been very great mourning for him among the Chriſtians, and his Name will be had in everlaſting Eſteem; he being made a Sacrifice for all the honeſt Sailors aboard the Ship. The <hi>Mahometans</hi> being ready, if opportu<g ref="char:EOLhyphen"/>nity preſented to act the ſecond part to the ſame Tune upon other worthy Sailors aboard: but for our comfort, we hear from other hands, that the Captain hath now a Boatſwain no ways inferior (in Faithfulneſs, Diligence and Induſtry) to the former; and that he is a Genleman of great Courage, and unſpotted Integrity; and very faithful to the Captain and to all the Ships Company that are Chriſtians: conſtantly ſeiſing guilty <hi>Mahometans.</hi> The God of Heaven preſerve him from the Inhumane Villany his Predeceſſor met with.</p>
+            <p n="4">IV. You tell us the Captain called a Councel together; and that the firſt Diſco<g ref="char:EOLhyphen"/>verer had a fair-hearing before them; though he had been affronted by ſome Princi<g ref="char:EOLhyphen"/>pal Officers before: and the Conſpiracy was plainly diſcovered; and that there was a Confederacy between the <hi>Mahometans</hi> and the <hi>Algerines:</hi> the Purſer and five other <hi>Mahometan</hi> Rogues that had ſome command in the Ship were ſeiſed and put into the Hold: Doubtleſs the Counſel are greatly concerned, to find out and proſecute the Conſpirators; the Diſcoverers having ſo frequently declared, that there was a Poſi<g ref="char:EOLhyphen"/>tive and curſed Deſign againſt the Captains Life: And that the Ships Company Inevita<g ref="char:EOLhyphen"/>bly had been expoſed to ſlavery and <hi>Mahumetan</hi> bondage, if they would not readily renounce their Religion: we likewiſe here that the Counſel of Officers have the greateſt part of their Eſtates embarked aboard the Ship; and if ſo doubtleſs they and their Poſterity will unavoidably be expoſed to utter ruine. Sir, we are exceeding glad to here that ſo many of the Conſpirators, eſpecially that the Purſer is found out and ſecured, who hath ſo groſly abuſed and cheated the Captain, and the whole Ships Company, by Embezling and waſting ſo much of the Ships Store committed to his Truſt. We are likewiſe Informed that it was a difficult thing to ſeize him, becauſe he
+<pb n="3" facs="tcp:53301:3"/>
+cunningly hid himſelf in or about the great Cabbin; and at laſt preſuming upon the Captains clemency, and underſtanding that the Bill was like to be found againſt him; and what Goods he had aboard the Ship (which was very great) like to be Confiſcated, he Impudently came out of his hole and ſurrendred himſelf, and was immediately b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Order of the Chief Officers clapt in the hold; and we are all big Bellied till we here that he is brought publick upon the Deck to receive condigne puniſhment for his un<g ref="char:EOLhyphen"/>pardonable Villanies.</p>
+            <p n="5">V. You acquaint us with a Diſcovery relating to the Murther of the worthy Boatſwain: And that ſome of the Murtherers have had the Sentence of Juſtice Executed upon them, being Hang<g ref="char:punc">▪</g>d up at the Main Maſt; it is good News: and and aſſerts the truth of the Old <hi>Engliſh</hi> Proverb, (Murther will out) and we are hereby Encouraged to hope that what is Concealed will in a ſhort time be Revealed, and Diſcovered. You tell us he was Trap<g ref="char:EOLhyphen"/>panned into the <hi>Mahometan</hi> Cabbin and there Murthered: whereas from other hands we underſtand: That it was one of the Chiefeſt Cabbins in the Ship : Particularly belonging to the Captains Lady.</p>
+            <p n="6">VI. You tell us that whilſt the Counſel was warm in ſearching into this Damnable De<g ref="char:EOLhyphen"/>ſign: And making Proviſion for the ſafety of the Captain and Ships Company, they were unexpectedly Broken up : And this had been done Divers times: Sir, this greatly amazeth all Sincere Chriſtians that here of it: Eſpecially becauſe we underſtand from other hands, that two great Counſels have b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en quite Diſſolved: And the third have not been ſuffered to ſit, ſince they were choſen: However we cannot but take good notice of that particular wherein you tell us, the Wiſer ſort believe the Captain is Real: becauſe of his conſtant Pro<g ref="char:EOLhyphen"/>feſſing himſelf a Chriſtian Neither will it be for his Intereſt to be otherwiſe, and that he cannot expect a Better Command in the Ship. Beſides he hath in the abſence of the great Counſel ſtuck ſeveral Orders on the Main Maſt: Commanding all <hi>Mahometans</hi> to depart by ſuch a Day, 10. Spaces from the Chiefeſt Cabbins: And alſo Encouragaing by Rewards, ſuch as ſhould make further Diſcoveries, and Apprehend ſuch as were Guilty. We cannot but acknowledge that theſe things do fairly lead to Charitable Concluſions of the Captains Proceedings: But the Conſideration of the Horrible Deſign againſt the Cap<g ref="char:EOLhyphen"/>tains Life; the Ship and Cargo withal the Chriſtian Souldiers and Sailors, together with the great Expectation of the <hi>Mahometans,</hi> that the Lieutenant ſhall come to be Captain and likewiſe that the <hi>Algerines</hi> are in Confederacy with the <hi>Mahometans,</hi> theſe things Conſide<g ref="char:EOLhyphen"/>red do put all true Chriſtians that Love the Captain at their Wits end<hi>:</hi> Becauſe he ſuffers not the great Counſel to ſit, notwithſtanding the Generality, ſtill hope the beſt as to the Captains Proceedings: But their hopes are mingled with many, and great fears: Becauſe the Captain hath manifeſted his Averſeneſs, that the Counſel ſhould Exclude the Lieu<g ref="char:EOLhyphen"/>tenant from Succeeding in his place. And to Eſtabliſh a Chriſtian as his Succeſſour<hi>:</hi> As alſo that the Purſer being Accuſed of many High Crimes, and Miſdemeanours by the great Counſel: Inſtead of being brought to a fair Trial, the Captain hath manifeſted a Willingneſs rather to Pardon him. It is alſo admired that the five great Conſpirators ſhould lie ſo long in the hold: And not be brought to a Tryal before the great Counſel<hi>:</hi> Its generally Concluded that the <hi>Mahometan</hi> Lieutenant, and the Steers man of the Pinnace wherein he now Sails, together with the <hi>Algerin</hi> Lady<hi>:</hi> Who is ſo much in the Captains Affections (and Acquainted with his Cabinet Counſels): are the chief cauſe of theſe things.</p>
+            <p n="7">VII. You tell us that the Chirurgeons Mate was likewiſe accuſed for Deſigning to Poiſon the Captain, and that he was Acquitted upon his Tryal. We do likewiſe un<g ref="char:EOLhyphen"/>derſtand that the generality of Perſons that were preſent at the Tryal, were well ſatis<g ref="char:EOLhyphen"/>fied that he was really Guilty; and that it plainly appeared, by the Evidence given in for the Captain (except to thoſe that quitted him being about the number of Thirteen): Its reported that a Legion of ſhining Gods greatly Influenced his Acquittal: Hower it ſeems, he durſt not abide on Board in the Captains Preſence, but is fled to the <hi>Algerines</hi> for his Security.</p>
+            <p n="8">VIII. You tell us, that great endeavours have been uſed to corrupt ſome of the chief Diſcoverers by falſe accuſations, and to invalidate the ſtrength of their Evidence, and that a new Conſpiracy hath been hatch'd againſt the Chriſtians, endeavouring to make them culpable of the ſame intended miſcheif againſt the Captain, as the <hi>Mahometans</hi> were guil<g ref="char:EOLhyphen"/>ty of: we cannot but greatly wonder that the Captain ſhould in the leaſt adhere to ſuch improbable informations, it being evidenced only by a new-liſted Seaman, who was greatly in favour with the Lieutenant, and one of his own Gang. But in this, we rejoice that this Sham-Plot fell into the hands of the wiſe and faithful Mid-ſhip-man; who hath behaved himſelf in the Diſcovery of it to the ſatisfaction of the Captain and all the Chriſtian Sailors.</p>
+            <p n="9">
+               <pb n="4" facs="tcp:53301:4"/>
+IX. You tell us that ſeveral Merchants that had great concerns aboard the Ship, did humbly addreſs to the Captain for the ſitting of the great Counſel; and that the Captain did make it manifeſt he did not rejoyce in their requeſt. You tell us the honeſt Sailors were about ſuch an Addreſs, but the Captain had ſhewed his diſlike of it by or<g ref="char:EOLhyphen"/>dering a Placaet to be fixed on the main Maſt, which diſcouraged many of them. But we are informed from other hands that a great number of them ventured to preſent it in a very humble manner by ſome of the chief men; but the Captain manifeſted that he was diſpleaſed with it. What to think of theſe things people are generally at a loſs: However ſome are willing to perſwade themſelves that the Captain doth this in wiſdom to try the Courage and Faithfulneſs of his Ships company, in endeavouring to maintain their own Rights and Priviledges; knowing well that if they will not look after their own Happineſs, 'tis very unlikely they ſhould be concerned about his; and 'tis verily believed if at laſt he ſhould grant their deſires, they would leap for Joy; as when the Noble Cap<g ref="char:EOLhyphen"/>tain came firſt Aboard; and cry out, <hi>God bleſs the Captain, one and all, one and all; we will live and die with him, we will live and die for him.</hi>
+            </p>
+            <p n="10">X. Now Sir, to Conclude, I do aſſure you that the People here generally (though they are heartily ſorry to hear of the danger that attends the Captain and Ships Company:) yet they are exceeding glad that the Ship is ſo ſtout a Ship, &amp; ſo well mann'd with Perſons of Integrity and Courage: Tis Heartily wiſhed that you may have ſufficiency of Ammunition againſt the time of need, when you may be forced to Diſpute the cauſe with the <hi>Algerines</hi> and <hi>Mahometans,</hi> that ſo you may preſerve your Captain, and not be Enſlaved by the <hi>Maho<g ref="char:EOLhyphen"/>metan</hi> Lieutenant; we do further heartily wiſh you may have found and couragious Chri<g ref="char:EOLhyphen"/>ſtians for all ſorts of Officers, eſpecially thoſe of the Order of the Golden Chain, that they may not be <hi>Mungrels</hi> nor <hi>Mahometans,</hi> becauſe the Fore-Caſtle and Main-Maſt is committed to their charge; which if they ſuffer the one to be Boarded, and the other to be cut off, the Ship would be utterly Diſabled, foraſmuch, as it is well known, that the Sa<g ref="char:EOLhyphen"/>ving or Betraying of the Ship doth depend on the Faithfulneſs or Unfaithfulneſs of the Offi<g ref="char:EOLhyphen"/>cers. But we are glad to hear that the Lord of that Noble Order, and few of his Brethren have Approved themſelves Faithful and Couragious for the Welfare of the Captain, and Ships Company. We hear there is a very Rare Bird in the Captains own Cabbin, that ſings moſt Pleaſantly, but ſince this Conſpiracy, he hath changed his Note, and we are in Doubt, what tune he will Sing next, whether for the <hi>Chriſtians</hi> or the <hi>Mahometans:</hi> But this we leave to Time to diſcover. Thus with a Thouſand thanks for your Letter, hoping you will as kindly accept of this Anſwer, from your Friend and Cordial Lover of your Chriſtian Captain.</p>
+            <closer>
+               <signed>PHILOPATRIAE</signed>
+               <dateline>Dated at the City of <hi>Loyalty,</hi> in the Kingdom of <hi>True Chriſtianity,</hi> where the People Pray for the Weal and Happineſs of your Captain and whole Ships Company. <date>
+                     <hi>January</hi> 21. 1680.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
